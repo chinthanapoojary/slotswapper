@@ -111,8 +111,8 @@ The frontend will run on `http://localhost:3000`
 **Sign Up Request:**
 ```json
 {
-  "name": "John Doe",
-  "email": "john@example.com",
+  "name": "chinthana",
+  "email": "chinthana@example.com",
   "password": "securepassword"
 }
 ```
@@ -120,7 +120,7 @@ The frontend will run on `http://localhost:3000`
 **Login Request:**
 ```json
 {
-  "email": "john@example.com",
+  "email": "chinthana@example.com",
   "password": "securepassword"
 }
 ```
